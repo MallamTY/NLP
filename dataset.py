@@ -1,0 +1,22 @@
+kinship_terms = {
+    'father': "A male parent, A dad, and A paternal figure",
+    'mother': "A female parent, A mom, A maternal figure",
+    'nephew': "A son of one's sibling, brother-in-law, or sister-in-law; either a son of one's brother (fraternal nephew) or a son of one's sister (sororal nephew)",
+    'person': "a character or part in or as if in a play, the personality of a human being",
+    'brother': "a male who has the same parents as another or one parent in common with another",
+    'sister': "a female who has one or both parents in common with another",
+    'wife': "a female partner in a marriage",
+    'husband': "a male partner in a marriage",
+    'son': "a human male offspring especially of human beings, a male adopted child, or a human male descendant",
+    'inlaw': "a relative by marriage",
+    'in-law': "a relative by marriage",
+    'grand-parent': "a parent of one's father or mother",
+    'grand parent': "a parent of one's father or mother",
+    'ancestor': "one from whom a person is descended and who is usually more remote in the line of descent than a grandparent",
+    'family': "the basic unit in society traditionally consisting of two parents rearing their children, spouse and children, or a group of individuals living under one roof and usually under one head",
+    'daughter': "a female offspring especially of human parents, a female adopted child, a human female descendant",
+    'niece': "a daughter of one's brother, sister, brother-in-law, or sister-in-law",
+    'parent': "one that begets or brings forth offspring, a person who brings up and cares for another, or an animal or plant that is regarded in relation to its offspring",
+    'child': "a young person especially between infancy and puberty, a person not yet of the age of majority",
+    'uncle': "the brother of one's father or mother, the husband of one's aunt or uncle"
+}
